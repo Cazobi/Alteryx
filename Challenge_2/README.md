@@ -7,10 +7,11 @@ A company in Australia has source data which is made up of a series of postal co
 Each Customer Record needs to be joined to the Lookup table based on a Postal Area Ranged region. Then finally summarize the customer data by Region, Sales Rep, and Responder, then a count of customers.
 
 What I learned/practiced:
-* Generating Rows of data
+* Splitting Rows to Columns
+* Date Convesrion
 
 <i>click the image to download the workflow</i><br>
 <br>
-<a href="challenge_1_solution.yxzp">
-<img src="Alteryx Challenge 1.png?raw=true" alt="Alteryx workflow">
+<a href="Challenge_2/challenge_2_solution.yxzp">
+<img src="Challenge_2/Alteryx Challenge 2.png?raw=true" alt="Alteryx workflow">
 </a>
