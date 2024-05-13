@@ -4,10 +4,16 @@
 |Preparation|Generate Rows|[No. 1](Challenge_1/README.md), |
 ||Select|[No. 2](Challenge_2/README.md), |
 ||Data Cleanising|[No. 2](Challenge_2/README.md), |
-|Join|Join|[No. 1](Challenge_1/README.md),|
+||Sort|[No. 3](Challenge_3/README.md), |
+||Record ID|[No. 3](Challenge_3/README.md), |
+||Multi-Row Formula|[No. 3](Challenge_3/README.md), |
+|Join|Join|[No. 1](Challenge_1/README.md), [No. 3](Challenge_3/README.md), |
 |Parse|Text to Columns|[No. 1](Challenge_1/README.md), [No. 2](Challenge_2/README.md), |
 ||DateTime|[No. 2](Challenge_2/README.md), |
 |Transform|Summarize|[No. 1](Challenge_1/README.md),|
+||Transpose|[No. 3](Challenge_3/README.md), |
+||Cross Tab|[No. 3](Challenge_3/README.md), |
+|Developer|Dynamic Rename|[No. 3](Challenge_3/README.md), |
 |Reporting|
 |Spatial|
 |Interface|
