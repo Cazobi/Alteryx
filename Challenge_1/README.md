@@ -1,4 +1,4 @@
-# Alteryx
+# Challenge 1
 
 [Challenge description](https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/m-p/36621/highlight/true#M25)
 
