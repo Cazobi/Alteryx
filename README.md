@@ -24,16 +24,16 @@
 
 # Challenge List
 
-|No.|Challenge Name|Solution|
-|---|---|---|
-|1.|Join to Range|[Challenge 1](Challenge_1/README.md)|
-|2.|Preparing Delimited Data|[Challenge 2](Challenge_2/README.md)|
-|3.|Running Averages|[Challenge 3](Challenge_3/README.md)|
-|4.|Date Parsing|
-|5.|HR Position Finder Application|
-|6.|Spatial Route|
-|7.|Download Data and Parse JSON|
-|8.|Aggregate Consumer Purchases|
-|9.|Analytics Ranking|
-|10.|Date Time Calculations|
+|No.|Challenge Name|Solution|Certification Level|
+|---|---|---|---|
+|1.|Join to Range|[Challenge 1](Challenge_1/README.md)|Core|
+|2.|Preparing Delimited Data|[Challenge 2](Challenge_2/README.md)|Foundation|
+|3.|Running Averages|[Challenge 3](Challenge_3/README.md)|Advanced|
+|4.|Date Parsing|[Challenge 4](Challenge_4/README.md)|Advanced|
+|5.|HR Position Finder Application|[Challenge 5](Challenge_5/README.md)|Advanced|
+|6.|Spatial Route|[Challenge 6](Challenge_6/README.md)|Advanced|
+|7.|Download Data and Parse JSON|[Challenge 7](Challenge_7/README.md)|Advanced|
+|8.|Aggregate Consumer Purchases|[Challenge 8](Challenge_8/README.md)|Core|
+|9.|Analytics Ranking|[Challenge 9](Challenge_9/README.md)|Core|
+|10.|Date Time Calculations|[Challenge 10](Challenge_10/README.md)|Core|
 
