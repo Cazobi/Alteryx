@@ -1,6 +1,6 @@
 # Challenge 1
 
-[Challenge description](https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/m-p/36621/highlight/true#M25)
+[Challenge description](https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/m-p/36621 )
 
 A company in Australia has source data which is made up of a series of postal codes (eg. 2000, 2001, 2002 etc.) amongst some other data fields. They have a separate reference table which contains postcode ranges (eg. 2000 to 2002) which they would like to use to match/filter their main data.
 
