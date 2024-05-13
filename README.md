@@ -1,10 +1,28 @@
+# Tool Usage
+|Category|Tool|Challenge Used
+|---|---|---|
+|Preparation|Generate Rows|[No. 1](Challenge_1/README.md), |
+||Select|[No. 2](Challenge_2/README.md), |
+||Data Cleanising|[No. 2](Challenge_2/README.md), |
+|Join|Join|[No. 1](Challenge_1/README.md),|
+|Parse|Text to Columns|[No. 1](Challenge_1/README.md), [No. 2](Challenge_2/README.md), |
+||DateTime|[No. 2](Challenge_2/README.md), |
+|Transform|Summarize|[No. 1](Challenge_1/README.md),|
+|Reporting|
+|Spatial|
+|Interface|
+|Data Investigation|
+|Predictive|
+|Time Series|
+|Connectors|
+
 # Challenge List
 
-|No.|Challenge Name|Solution|Skill/Tools|
-|---|---|---|---|
-|1.|Join to Range|[Challenge 1](Challenge_1/README.md)|Generate Rows, Summarise|
-|2.|Preparing Delimited Data|[Challenge 2](Challenge_2/README.md)|Row Splitting, Date Conversion|
-|3.|Running Averages|
+|No.|Challenge Name|Solution|
+|---|---|---|
+|1.|Join to Range|[Challenge 1](Challenge_1/README.md)|
+|2.|Preparing Delimited Data|[Challenge 2](Challenge_2/README.md)|
+|3.|Running Averages|[Challenge 3](Challenge_3/README.md)|
 |4.|Date Parsing|
 |5.|HR Position Finder Application|
 |6.|Spatial Route|
@@ -13,4 +31,3 @@
 |9.|Analytics Ranking|
 |10.|Date Time Calculations|
 
-# Skill List
