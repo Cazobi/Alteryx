@@ -3,7 +3,7 @@
 |No.|Challenge Name|Solution|Skill/Tools|
 |---|---|---|---|
 |1.|Join to Range|[Challenge 1](Challenge_1/README.md)|Generate Rows, Summarise|
-|2.|Preparing Delimited Data|[Challenge 2]
+|2.|Preparing Delimited Data|[Challenge 2](Challenge_2/README.md)|Row Splitting, Date Conversion|
 |3.|Running Averages|
 |4.|Date Parsing|
 |5.|HR Position Finder Application|
