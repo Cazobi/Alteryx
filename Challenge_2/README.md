@@ -12,6 +12,6 @@ What I learned/practiced:
 
 <i>click the image to download the workflow</i><br>
 <br>
-<a href="Challenge_2/challenge_2_solution.yxzp">
-<img src="Challenge_2/Alteryx Challenge 2.png?raw=true" alt="Alteryx workflow">
+<a href="challenge_2_solution.yxzp">
+<img src="Alteryx Challenge 2.png" alt="Alteryx workflow">
 </a>
