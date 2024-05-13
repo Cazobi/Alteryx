@@ -1,15 +1,8 @@
-# Challenge 4
+# Challenge 6
 
 [Challenge description](https://community.alteryx.com/t5/Weekly-Challenges/Challenge-1-Join-to-Range/m-p/36621/highlight/true#M25)
 
-A dataset contains a text field that has a date embedded within the text. The problem is that the date is represented a few different ways. For example:
-
-16-APR-2005
-Nov•16,•1900
-4-SEP-00
-Jan•5•2000
- 
-The goal is to create a new Date/Time field populated with the dates contained within the text field. You will also need to standardize the dates so that they are all formatted the same.
+Sales reps are travelling all over the US. The data contained in the workflow details the travel paths for 7 Reps to 7 different cities. The travel route is detailed as well. The objective of this challenge is to determine which Rep has logged the most miles. Please include the route traveled as a spatial object in the output.
 
 What I learned/practiced:
 * 
@@ -17,7 +10,7 @@ What I learned/practiced:
 
 <i>click the image to download the workflow</i><br>
 <br>
-<a href="challenge_4_solution.yxzp">
-<img src="Alteryx Challenge 4.png" alt="Alteryx workflow">
+<a href="challenge_6_solution.yxzp">
+<img src="Alteryx Challenge 6.png" alt="Alteryx workflow">
 </a>
 
