@@ -12,8 +12,7 @@ Jan•5•2000
 The goal is to create a new Date/Time field populated with the dates contained within the text field. You will also need to standardize the dates so that they are all formatted the same.
 
 What I learned/practiced:
-* 
-* 
+* Regular Expressions
 
 <i>click the image to download the workflow</i><br>
 <br>
