@@ -2,21 +2,31 @@
 |Category|Tool|Challenge Used
 |---|---|---|
 |Preparation|Generate Rows|[No. 1](Challenge_1/README.md), |
-||Select|[No. 2](Challenge_2/README.md), |
+||Select|[No. 2](Challenge_2/README.md), [No. 4](Challenge_4/README.md),|
 ||Data Cleanising|[No. 2](Challenge_2/README.md), |
-||Sort|[No. 3](Challenge_3/README.md), |
+||Sort|[No. 3](Challenge_3/README.md), [No. 6](Challenge_6/README.md), |
 ||Record ID|[No. 3](Challenge_3/README.md), |
 ||Multi-Row Formula|[No. 3](Challenge_3/README.md), |
+||Formula|[No. 4](Challenge_4/README.md), [No. 5](Challenge_5/README.md), |
+||Filter|[No. 5](Challenge_5/README.md), |
+||Unique|[No. 5](Challenge_5/README.md), |
 |Join|Join|[No. 1](Challenge_1/README.md), [No. 3](Challenge_3/README.md), |
+||Union|[No. 5](Challenge_5/README.md), |
+||Append Fields|[No. 5](Challenge_5/README.md), |
 |Parse|Text to Columns|[No. 1](Challenge_1/README.md), [No. 2](Challenge_2/README.md), |
-||DateTime|[No. 2](Challenge_2/README.md), |
+||DateTime|[No. 2](Challenge_2/README.md), [No. 4](Challenge_4/README.md),|
+||RegEx|[No. 4](Challenge_4/README.md), |
 |Transform|Summarize|[No. 1](Challenge_1/README.md),|
 ||Transpose|[No. 3](Challenge_3/README.md), |
-||Cross Tab|[No. 3](Challenge_3/README.md), |
+||Cross Tab|[No. 3](Challenge_3/README.md), [No. 5](Challenge_5/README.md), |
 |Developer|Dynamic Rename|[No. 3](Challenge_3/README.md), |
 |Reporting|
-|Spatial|
-|Interface|
+|Spatial|Poly-Build|[No. 6](Challenge_6/README.md), |
+||Spatial Info|[No. 6](Challenge_6/README.md), |
+|Interface|Macro Input|[No. 5](Challenge_5/README.md), |
+||Drop Down|[No. 5](Challenge_5/README.md), |
+||Action|[No. 5](Challenge_5/README.md), |
+||Macro Output|[No. 5](Challenge_5/README.md), |
 |Data Investigation|
 |Predictive|
 |Time Series|
