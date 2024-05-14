@@ -1,4 +1,11 @@
-# Tool Usage
+<details>
+
+<summary>
+
+# Tool Usage 
+ 
+</summary>
+
 |Category|Tool|Challenge Used
 |---|---|---|
 |Preparation|Generate Rows|[No. 1](Challenges_1-50/Challenge_1/README.md), |
@@ -32,7 +39,15 @@
 |Time Series|
 |Connectors|
 
+</details>
+
+<details>
+  
+<summary>
+
 # Challenge List
+ 
+</summary>
 
 |No.|Challenge Name|Solution|Certification Level|
 |---|---|---|---|
@@ -47,3 +62,4 @@
 |9.|Analytics Ranking|[Challenge 9](Challenges_1-50/Challenge_9/README.md)|Core|
 |10.|Date Time Calculations|[Challenge 10](Challenges_1-50/Challenge_10/README.md)|Core|
 
+</details>
