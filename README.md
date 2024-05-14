@@ -1,7 +1,7 @@
 # Tool Usage
 |Category|Tool|Challenge Used
 |---|---|---|
-|Preparation|Generate Rows|[No. 1](Challenge_1/README.md), |
+|Preparation|Generate Rows|[No. 1](Challenges_1-50/Challenge_1/README.md), |
 ||Select|[No. 2](Challenge_2/README.md), [No. 4](Challenge_4/README.md),|
 ||Data Cleanising|[No. 2](Challenge_2/README.md), |
 ||Sort|[No. 3](Challenge_3/README.md), [No. 6](Challenge_6/README.md), |
