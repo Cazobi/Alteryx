@@ -1,10 +1,4 @@
-<details>
-
-<summary>
-
 # Tool Usage 
- 
-</summary>
 
 |Category|Tool|Challenge Used
 |---|---|---|
@@ -38,8 +32,6 @@
 |Predictive|
 |Time Series|
 |Connectors|
-
-</details>
 
 <details>
   
