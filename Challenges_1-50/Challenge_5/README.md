@@ -14,7 +14,7 @@ Macro
 
 <i>click the image to download the workflow</i><br>
 <br>
-<a href="challenge_5_solution.yxzp">
+<a href="Challenge_5_solution.yxzp">
 <img src="Challenge 5 Macro.png" alt="Alteryx macro">
 </a>
 
